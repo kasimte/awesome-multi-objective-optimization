@@ -41,6 +41,8 @@ A curated list of awesome multi-objective optimization research resources. Inspi
   - F. Zeng, Q. Zong, Z. Sun, L. Dou. *IEEE Trans. Intell. Trans. Syst 2011*
 - Managing power consumption and performance of computing systems using reinforcement learning. [[pdf]](http://papers.nips.cc/paper/3251-managing-power-consumption-and-performance-of-computing-systems-using-reinforcement-learning.pdf)
   - Tesauro, Gerald, et al. *NIPS 2018*
+- Dynamic Weights in Multi-Objective Deep Reinforcement Learning [[pdf]](https://arxiv.org/pdf/1809.07803v2)
+  - Abels, Axel and Roijers, Diederik and Lenaerts, Tom and Nowé, Ann and Steckelmacher, Denis
 
 ##### W-Learning Approach
 - Action selection methods using reinforcement learning. [[pdf]](http://cogprints.org/447/2/g.SAB96.ps)
